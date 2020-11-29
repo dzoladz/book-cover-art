@@ -1,0 +1,5 @@
+pid,label,author,publisher,year,object_type,order,layout,collection,thumbnail,full,manifest
+obj4,A Perfect Vacuum,Stanislaw Lem,x,x,image,3,generic_collection_item,book_covers,"/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj4/full/1140,/0/default.jpg",/img/derivatives/iiif/obj4/manifest.json
+obj3,The Drowned World,J. G. Ballard,x,x,image,2,generic_collection_item,book_covers,"/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj3/full/1140,/0/default.jpg",/img/derivatives/iiif/obj3/manifest.json
+obj2,Cosmicomics,Italo Calvino,x,x,image,1,generic_collection_item,book_covers,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg",/img/derivatives/iiif/obj2/manifest.json
+obj1,At the Mountains of Madness,H. P. Lovecraft,x,x,image,0,generic_collection_item,book_covers,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg",/img/derivatives/iiif/obj1/manifest.json
