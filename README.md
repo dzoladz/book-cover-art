@@ -8,9 +8,10 @@
 [![Join the chat at https://gitter.im/minicomp/wax](https://badges.gitter.im/minicomp/wax.svg)](https://gitter.im/minicomp/wax?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![License](https://img.shields.io/github/license/minicomp/wax_tasks.svg?color=c6a1e0)
 
+# Updates
+- [Wax Documents](https://minicomp.github.io/wiki/wax/)
 
-
-
+# Original
 
 __Wax is an extensible workflow for producing scholarly exhibitions with minimal computing principles.__<br>
 It's comprised of: __a few Ruby gems__ for processing image data and associated metadata ([wax_tasks](https://github.com/minicomp/wax_tasks/), [wax_iiif](https://github.com/minicomp/wax_iiif/)), __a Jekyll theme__ ([wax_theme](https://github.com/minicomp/wax/)), and (hopefully soon!) a lot of __documentation and recipes__ for creating, deploying, and maintaining digital exhibitions.
