@@ -24,7 +24,206 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50e34004-e2ce-4527-82f1-6043ad5c49a8" name="Default Changelist" comment="" />
+    <list default="true" id="50e34004-e2ce-4527-82f1-6043ad5c49a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/book_covers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_data/book_covers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/annotation/obj1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/annotation/obj2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/annotation/obj3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/annotation/obj4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/canvas/obj1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/canvas/obj2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/canvas/obj3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/canvas/obj4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/collection/book_covers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,0,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,0,2048,2048/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,0,3023,3023/378,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,1024,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,2048,1024,975/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,2048,2048,975/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,2560,512,463/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/0,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1024,0,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1024,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1024,1024,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1024,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1024,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1024,2048,1024,975/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1024,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1024,2560,512,463/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1024,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1536,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1536,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1536,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1536,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1536,2560,512,463/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/1536,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,0,975,1024/488,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,0,975,2048/244,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,1024,975,1024/488,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,2048,975,975/244,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,2048,975,975/488,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,2560,512,463/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2048,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2560,0,463,512/463,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2560,1024,463,512/463,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2560,1536,463,512/463,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2560,2048,463,512/463,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2560,2560,463,463/463,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/2560,512,463,512/463,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/512,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/512,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/512,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/512,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/512,2560,512,463/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/512,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/full/full/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj1/info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,0,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,0,2048,2048/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,0,3024,3024/378,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,1024,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,2048,1024,976/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,2048,2048,976/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,2560,512,464/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/0,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1024,0,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1024,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1024,1024,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1024,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1024,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1024,2048,1024,976/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1024,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1024,2560,512,464/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1024,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1536,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1536,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1536,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1536,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1536,2560,512,464/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/1536,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,0,976,1024/488,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,0,976,2048/244,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,1024,976,1024/488,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,2048,976,976/244,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,2048,976,976/488,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,2560,512,464/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2048,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2560,0,464,512/464,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2560,1024,464,512/464,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2560,1536,464,512/464,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2560,2048,464,512/464,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2560,2560,464,464/464,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/2560,512,464,512/464,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/512,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/512,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/512,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/512,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/512,2560,512,464/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/512,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/full/full/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj2/info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/0,0,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/0,0,1440,1446/180,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/0,0,1440,1446/360,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/0,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/0,1024,1024,422/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/0,1024,512,422/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/0,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/1024,0,416,1024/208,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/1024,0,416,512/416,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/1024,1024,416,422/208,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/1024,1024,416,422/416,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/1024,512,416,512/416,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/512,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/512,1024,512,422/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/512,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/full/1140,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/full/full/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj3/info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,0,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,0,2048,2048/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,0,2053,2860/257,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,1024,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,2048,1024,812/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,2048,2048,812/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,2560,512,300/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/0,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1024,0,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1024,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1024,1024,1024,1024/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1024,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1024,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1024,2048,1024,812/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1024,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1024,2560,512,300/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1024,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1536,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1536,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1536,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1536,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1536,2560,512,300/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/1536,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,0,5,1024/3,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,0,5,2048/2,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,0,5,512/5,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,1024,5,1024/3,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,1024,5,512/5,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,1536,5,512/5,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,2048,5,512/5,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,2048,5,812/2,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,2048,5,812/3,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,2560,5,300/5,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/2048,512,5,512/5,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/512,0,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/512,1024,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/512,1536,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/512,2048,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/512,2560,512,300/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/512,512,512,512/512,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/full/1140,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/full/full/0/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/images/obj4/info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/obj1/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/obj2/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/obj3/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/obj4/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/sequence/obj1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/sequence/obj2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/sequence/obj3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/derivatives/iiif/sequence/obj4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/collection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/index.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,5 +271,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

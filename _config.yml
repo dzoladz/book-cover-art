@@ -66,7 +66,7 @@ collections:
     output: true
   book_covers: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'generic_collection_item' # the layout for the pages to use
+    layout: 'qatar_item' # the layout for the pages to use
     metadata:
       source: 'book_covers.csv' # path to the metadata file within `_data`
     images:
@@ -81,11 +81,11 @@ collections:
 # and running `$ bundle exec rake wax:search` .
 
 search:
-  book_covers:
+  main:
     index: '/search/index.json' # file the index will get written to
     collections:
       book_covers:
-        content: false # whether or not to index page content
+        content: true # whether or not to index page content
         fields: # the metadata fields to index
           - label
           - author

@@ -11,6 +11,7 @@ layout: none
     "object_type": "image",
     "collection": "book_covers",
     "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/book_covers/obj1",
     "lunr_id": 0
   },
@@ -23,6 +24,7 @@ layout: none
     "object_type": "image",
     "collection": "book_covers",
     "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/book_covers/obj4",
     "lunr_id": 1
   },
@@ -35,6 +37,7 @@ layout: none
     "object_type": "image",
     "collection": "book_covers",
     "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/book_covers/obj3",
     "lunr_id": 2
   },
@@ -47,6 +50,7 @@ layout: none
     "object_type": "image",
     "collection": "book_covers",
     "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/book_covers/obj2",
     "lunr_id": 3
   }
