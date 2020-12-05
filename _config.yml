@@ -21,7 +21,7 @@
 title:            'Book Covers'
 description:      'Book Covers Exhibitions'
 url:              'https://dzoladz.github.io'
-baseurl:          '/book-cover-art'
+baseurl:          '/book-cover-art' # for github deploy, must be repository name
 copyright:        'Derek C. Zoladz, 2020'
 logo:             '/assets/logo.png'
 
