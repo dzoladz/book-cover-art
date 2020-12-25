@@ -21,14 +21,16 @@ $thumbnail-width: 140px;
 
 /* colors */
 
-$neutral:         #eae7de;
-$main-text-color: #ffffff;
-$text-color:      #100c01;
-$main-bg-color:   #1a4158;
-$header-bg-color: #eae7de;
-$footer-bg-color: $neutral;
-$accent-light:    #966d09;
-$accent-dark:     #644906;
+$neutral:               #eae7de;
+$white:                 #ffffff;
+$main-text-color:       $white;
+$text-color:            #100c01;
+$main-bg-color:         #1a4158;
+$header-bg-color:       $white;
+$footer-bg-color:       $white;
+$gallery-button-border: #adadad;
+$accent-light:          #dea418; //#966d09;
+$accent-dark:           #644906;
 
 /* viewport sizes */
 
@@ -51,4 +53,5 @@ font & asset import
 */
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
+@import url('https://fonts.googleapis.com/css?family=Piazzolla');
 @import 'wax';

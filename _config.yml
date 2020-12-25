@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Digital Repository'
-description:      'A Personal Repository for Digital Exhibits'
+title:            'Curiousitarium<sup>DCZ</sup>'
+description:      'A Personal Repository for Digital Objects'
 url:              'https://dzoladz.github.io'
 baseurl:          '/book-cover-art' # for github deploy, must be repository name
 copyright:        'Derek C. Zoladz, 2020'

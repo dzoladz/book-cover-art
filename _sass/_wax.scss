@@ -57,10 +57,17 @@ header & nav bar
   letter-spacing: 0.075rem;
 
   .navbar-brand {
-    font-weight: 700;
+    font-weight: 500;
     color: $accent-light;
     font-size: 2rem;
     white-space: normal;
+    font-family: Piazzolla;
+    sup {
+        float: right;
+        display: block;
+        transform: translateY(24px);
+        font-size: 50%;
+    }
   }
 
   .navbar-brand:hover {
@@ -433,7 +440,8 @@ search box
       margin-right: .5em;
       margin-top: 1rem;
       font-family: $heading-font;
-      border-color: $text-color;
+      border-color: $gallery-button-border;
+      color: $main-text-color;
     }
     .active{
       @extend .facet;
