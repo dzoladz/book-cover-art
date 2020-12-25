@@ -9,7 +9,8 @@ main body & containers
 html, body {
   margin: 0;
   padding: 0;
-  background-color: $bg-color;
+  background-color: $main-bg-color;
+  color: $main-text-color;
   font-family: $body-font;
   font-display: auto;
   -webkit-font-smoothing: antialiased;
@@ -29,7 +30,7 @@ a:hover {
 }
 
 p {
-  color: $text-color;
+  color: $main-text-color;
   max-width: 100%;
   margin-bottom: $less-margin;
   letter-spacing: .02rem;
@@ -47,7 +48,7 @@ header & nav bar
 */
 
 #wax-header {
-  background-color: $bg-color;
+  background-color: $header-bg-color;
   border-bottom: 1px solid $text-color;
   font-family: $heading-font;
   color: $text-color;
@@ -67,13 +68,13 @@ header & nav bar
   }
 
   .navbar-toggler {
-    background-color: $bg-color;
+    background-color: $header-bg-color;
   }
 
   .navbar-nav {
     .nav-item {
       z-index: 1000000;
-      background-color: $bg-color;
+      background-color: $header-bg-color;
     }
     .nav-link {
       color: $text-color;
@@ -82,10 +83,10 @@ header & nav bar
       color: $accent-dark;
     }
     .nav-link:active {
-      background-color: $bg-color;
+      background-color: $header-bg-color;
     }
     .dropdown-menu {
-      background-color: $bg-color;
+      background-color: $header-bg-color;
       border-color: $neutral;
       .dropdown-item:focus {
         background-color: transparent;
@@ -100,7 +101,7 @@ content section
 
 */
 #wax-main {
-  background-color: $bg-color;
+  background-color: $main-bg-color;
   width: 100vw;
   max-width: 100%;
   padding-top: $margin;
@@ -201,7 +202,7 @@ content section
   width: 100vw;
   padding-bottom: 5rem;
   padding-top: 3rem;
-  background-color: $neutral;
+  background-color: $footer-bg-color;
   col {
     flex-basis: 0;
     flex-shrink: 0;
@@ -209,6 +210,9 @@ content section
     max-width: 100%;
     justify-items: space-between;
     min-width: 250px;
+  }
+  p {
+    color: $text-color;
   }
   .footer-title {
     font-weight: bold;
@@ -348,7 +352,7 @@ item pages (iiif + metadata)
       font-size: 3em;
       color: $text-color !important;
       text-decoration: none !important;
-      background-color: $bg-color;
+      background-color: $header-bg-color;
       margin: 0;
       &:hover{
         color: $accent-dark !important;
@@ -434,7 +438,7 @@ search box
     .active{
       @extend .facet;
       background-color: $text-color;
-      color: $bg-color;
+      color: $main-bg-color;
     }
   }
   .wax-gallery {
@@ -486,7 +490,7 @@ search box
         .info {
           text-decoration: none;
           font-family: $heading-font !important;
-          color: $bg-color !important;
+          color: $main-bg-color !important;
           background-color: transparent;
           opacity: 0;
           filter: alpha(opacity=0);
